@@ -30,8 +30,8 @@ sudo cp KyrgyzLayout.bundle /Library/Keyboard\ Layouts/
 
 
 See layout mapping screenshots:
-1. [Default state](0_default.png)
-2. [Shift key pressed](1_shift.png)
-3. [Option key pressed](2_option.png)
-4. [Option and Shift keys pressed](3_option_shift.png)
+1. ![Default state](0_default.png)
+2. ![Shift key pressed](1_shift.png)
+3. ![Option key pressed](2_option.png)
+4. ![Option and Shift keys pressed](3_option_shift.png)
 ---
