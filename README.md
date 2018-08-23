@@ -1,4 +1,4 @@
-# Kyrgyz keyboard layout for MAC users
+# Kyrgyz keyboard layout for Mac OS X users. Layout was inspired by Ubuntu's one.
 
 Kyrgyz keyboard layout comes by default with Ubuntu-based systems. However it is not available by default for OS X. Here is a keyboard layout for you to install and be able to use additional 3 (ү, ө, ң) characters in kyrgyz language. Rest of the keyboard is same as the Russian one (except ё is now on `~` key (left from 1)).
 
@@ -34,4 +34,9 @@ See layout mapping screenshots:
 2. Shift key pressed![Shift key pressed](1_shift.png)
 3. Option key pressed![Option key pressed](2_option.png)
 4. Option and Shift keys pressed![Option and Shift keys pressed](3_option_shift.png)
+
+### Credits
+ - Thanks to latysh for README -- I copy-pasted some of his text chunks :)
+You may also like his version of the layout [Kyrgyz keyboard layout for MAC users. MAC колдонуучуларга кыргызча клавиатура.](https://github.com/latysh/kyrgyz-keyboard-layout-mac)
+ - This layout was built with [Ukelele Mac OS X Keyboard Layout Editor](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele)
 ---
